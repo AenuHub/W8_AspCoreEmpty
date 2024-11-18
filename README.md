@@ -48,3 +48,7 @@ At the bottom of `Program.cs`, the following information included as comments:
 7. **wwwroot**: Explain the purpose of the `wwwroot` folder.
 8. **builder.Build()**: Clarify what this method does during application startup.
 9. **app.Run()**: Explain the role of this method in running the application.
+
+---
+
+**Note:** `.gitkeep` is used for all the empty folders to include in git main branch.
